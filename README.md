@@ -28,6 +28,11 @@
 
   ![Anurag's gitHub stats](https://github-readme-stats.vercel.app/api?username=jms8540&show_icons=true&theme=neon)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jms8540&layout=compact&theme=tokyonight)
+  <br>
+  
+  <div>
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=633122&height=100&section=footer"/>
+  </div>
   
 </div>
 
