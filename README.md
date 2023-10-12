@@ -20,10 +20,10 @@
     <img src="https://skillicons.dev/icons?i=html">
     <img src="https://skillicons.dev/icons?i=css">
     <img src="https://skillicons.dev/icons?i=js">
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=react">
-    <img src="https://skillicons.dev/icons?i=python">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://skillicons.dev/icons?i=java">
+    <img src="https://skillicons.dev/icons?i=python">
+    <img src="https://skillicons.dev/icons?i=react">
   </div>
   <hr>
 
