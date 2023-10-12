@@ -32,7 +32,7 @@
   <br>
   
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=633122&height=100&section=footer"/>
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=633122&height=100&section=footer&text=Nice%20to%20meet%20you%20:D&fontColor=1f1204&fontSize=42"/>
   </div>
   
 </div>
