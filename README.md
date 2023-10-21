@@ -29,6 +29,8 @@
   ![Anurag's gitHub stats](https://github-readme-stats.vercel.app/api?username=jms8540&show_icons=true&theme=neon)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jms8540&layout=compact&theme=tokyonight)
   <br>
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=jms8540&&theme=dark)](https://git.io/streak-stats)
   
   <div>
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=633122&height=100&section=footer&text=Nice%20to%20meet%20you%20:D&fontColor=eee&fontSize=42"/>
