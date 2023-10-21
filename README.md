@@ -10,7 +10,6 @@
     <h2>Connect with me</h2>
     <a href="https://github.com/jms8540" target="_blank"><img src="https://img.shields.io/badge/GitHub-2a2a2a?style=flat-square&logo=GigHub&logoColor=white"/></a>
     <a href="https://velog.io/@jms1031" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
-    <a href="https://www.notion.so/1206e36aaefb4aa4bb1cf528d7c67fa7?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-00c9f2?style=flat-square&logo=notion&logoColor=white"/></a>
     <a href="https://www.instagram.com/jeonminsu10_31/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   </div>
   <br>
@@ -32,7 +31,7 @@
   <br>
   
   <div>
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=633122&height=100&section=footer&text=Nice%20to%20meet%20you%20:D&fontColor=1f1204&fontSize=42"/>
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=633122&height=100&section=footer&text=Nice%20to%20meet%20you%20:D&fontColor=eee&fontSize=42"/>
   </div>
   
 </div>
